@@ -1,12 +1,15 @@
 <img src="icons/icon128.png" align="right">
 
-# discordtokenlogin
-Allows you to login to discord with a token
+# PostLit Token Login
+Allows you to login to postLit with a token
 
 ## How to use
 Download the zip file and import the extension into your browser.
 
-Then to login with a token, go to <a href="https://discord.com/login#tokenlogin" target="_blank">discord.com/login#tokenlogin</a> and enter the token when prompted.
+ To login with a token, go to <a href="https://postlit.dev/tokenlogin" target="_blank">postlit.dev/tokenlogin</a> and enter the token when prompted.
+ 
+To view your token, go to <a href="https://postlit.dev/mytoken" target="_blank">postlit.dev/mytoken</a>
+
 
 -------
 made with ❤️ by [daniel4-scratch](https://github.com/danie4-scratch)
