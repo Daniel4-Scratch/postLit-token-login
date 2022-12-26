@@ -1,6 +1,6 @@
 {
-    "name": "Discord Token Login",
-    "description": "login to discord with a user token",
+    "name": "PostLit Token Login",
+    "description": "signin to postLit with a user token",
     "version": "0.1.0",
     "version_name": "0.1.0",
     "manifest_version": 3,
@@ -19,7 +19,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://discord.com/login"],
+        "matches": ["https://*.postlit.dev/*"],
         "js": ["content.js"]
       }
     ]
